@@ -20,6 +20,8 @@
 | 웹툰 프로젝트           | 사용자가 웹툰을 올리거나 열람할 수 있는 프로젝트            | Java 17, Spring Boot, JWT, Spring Batch, AWS                                | 개인 프로젝트 (1명) | [GitHub 링크](https://github.com/SeokCheol-Lee/Webtoon)            | 2024-02.03 |
 | 우리동네 해결사          | 위치 기반으로 주변의 의뢰를 찾고, 해결해주는 서비스          | Java 17, Spring Boot, WebSocket, JWT, Spring Batch, Docker, AWS             | 개인 프로젝트 (1명) | [GitHub 링크](https://github.com/my-neighborhood-solver/nsBackEnd) | 2023-08.30 |
 
+<br>
+
 ## 🎖️ 인프라 프로젝트 목록 🎖️
 
 | 프로젝트 이름                          | 설명                                               | 주요 기술                                       | 참여 인원       | 링크                                                                      | 날짜         |
@@ -29,5 +31,7 @@
 | Average Load in Linux            | 시스템 부하를 모니터링하는 시스템 구축                            | Linux, uptime, mpstat, pidstat, stress, ELK | 팀 프로젝트 (3명) | [GitHub 링크](https://github.com/SeokCheol-Lee/Average_Load_in_Linux)     | 2024-09-23 |
 | SmartWorkflow-Crontab-PC-Manager | Crontab을 이용한 스마트 PC 관리 시스템                       | Linux, Crontab, Bash scripting, PAM         | 팀 프로젝트 (3명) | [GitHub 링크](https://github.com/SeokCheol-Lee/WooriFISA_linux_crontab)   | 2024-09-19 |
 | VMware vShpere HA Deep Dive      | On-premise 환경에서 VMWare vShpere의 고가용성을 보장을 위한 세미나 | VMWare, vSphereHA                           | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/SeokCheol-Lee/vSphereHA_Seminar)         | 2024-09-13 |
+
+<br>
 
 이 포트폴리오는 지속적으로 업데이트됩니다.
